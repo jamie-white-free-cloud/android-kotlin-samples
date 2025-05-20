@@ -2,7 +2,7 @@
 
 ![Kotlin](https://raw.githubusercontent.com/irontec/android-kotlin-samples/master/logo.png)
 
-Some basic samples of [Kotlin](http://kotlinlang.org/) for Android
+Some very basic samples of [Kotlin](http://kotlinlang.org/) for Android
 
 ### Samples
 
